@@ -1,4 +1,4 @@
-# Math-Survivors
-Python으로 만든 뱀파이어 서바이버즈 류 로그라이크 게임
+# Vampire-Survivors
+Python으로 뱀파이어 서바이버즈 모작하기
 
-(제작중) 
+(제작중)
